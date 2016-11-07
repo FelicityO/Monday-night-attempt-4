@@ -3,14 +3,16 @@ body {background-color: lightblue
 h1 {
 	color: grey;
 	font-family: Lucida;
-	font-size: 40px;
+	font-size: 80px;
 	text-align: center;
 }
 ul li{
 	display: inline;
+	text-align: center;
 	background-color: white;
 	font-size: 20px;
 	padding-left: 30px;
+	padding-top: 30px
 }
 p{
 	color: grey;
